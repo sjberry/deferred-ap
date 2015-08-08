@@ -1,0 +1,15 @@
+{
+  "name": "deferred-ap",
+  "version": "0.0.1",
+  "description": "A Deferred extension for any Promises/A+ compliant promise library.",
+  "keywords": [
+    "promises"
+  ],
+  "author": "Steven Berry <steven@sberry.me> (http://www.sberry.me/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sjberry/deferred-ap.git"
+  },
+  "main": "src/deferred"
+}
