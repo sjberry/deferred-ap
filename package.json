@@ -1,6 +1,6 @@
 {
   "name": "deferred-ap",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A Deferred extension for any Promises/A+ compliant promise library.",
   "keywords": [
     "promises"
@@ -11,5 +11,5 @@
     "type": "git",
     "url": "https://github.com/sjberry/deferred-ap.git"
   },
-  "main": "src/deferred"
+  "main": "deferred"
 }
